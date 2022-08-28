@@ -28,7 +28,7 @@ export function header_links() {
   </Link>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <Link href="/vp" >
-  <a>Venture Parnters</a>
+  <a>Venture Partners</a>
   </Link>
   {/* &nbsp;&nbsp;|&nbsp;&nbsp;
 
