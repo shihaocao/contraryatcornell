@@ -27,8 +27,8 @@ export default function FirstPost() {
       The contrary community runs hubs in each city where fellows and venture partners all hangout.
       <h3>Retreats</h3> */}
 
-      <h2>In-person Info Session</h2>
-      The in-person info session will be held at 8:00pm in eHub Kennedy on Thursday 09/08.
+      <h2>In-person Meet and Greet</h2>
+      The in-person meet and greet will be held at 7:30pm in eHub Kennedy on Wednesday 09/07.
 
       <h2>Who really are VPs?</h2>
 
