@@ -33,7 +33,7 @@ export default function FirstPost() {
 
       <h2>Apply</h2>
 
-      <p><a href="cornell@contrary.com">Send us a quick email</a> with what you're building, and we'll schedule a time to chat! We're excited to meet you and help you get started.
+      <p><a href="mailto: cornell@contrary.com">Send us a quick email</a> with what you're building, and we'll schedule a time to chat! We're excited to meet you and help you get started.
       Please don't spend more than 1 minute on the email haha.</p>
 
       <p>Or even <Link href="https://mobile.twitter.com/shihao_cao">dm us on twitter</Link> with what you're building!</p>
@@ -50,7 +50,7 @@ export default function FirstPost() {
       <h2>Questions?</h2>
       
       <p>Reach out to us at&nbsp;
-        <a href="cornell@contrary.com">cornell@contrary.com</a>
+        <a href="mailto: cornell@contrary.com">cornell@contrary.com</a>
       </p>
       <hr></hr>
 

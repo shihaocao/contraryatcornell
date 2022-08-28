@@ -89,7 +89,7 @@ export default function Home() {
 
         <h3>Got questions?</h3>
         <p>Reach out to us at&nbsp;
-        <a href="cornell@contrary.com">cornell@contrary.com</a>
+        <a href="mailto: cornell@contrary.com">cornell@contrary.com</a>
         </p>
       </section>
 
