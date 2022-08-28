@@ -87,10 +87,12 @@ export default function Home() {
         <a href="https://startupsearch.com/">here</a>
         </p>
 
+
         <h3>Got questions?</h3>
         <p>Reach out to us at&nbsp;
         <a href="mailto: cornell@contrary.com">cornell@contrary.com</a>
         </p>
+
       </section>
 
     </Layout>

@@ -37,7 +37,7 @@ export default function FirstPost() {
       <h2>Questions?</h2>
       
       <p>Reach out to us at&nbsp;
-        <a href="cornell@contrary.com">cornell@contrary.com</a>
+        <a href="mailto:cornell@contrary.com">cornell@contrary.com</a>
       </p>
       <hr></hr>
 
