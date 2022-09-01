@@ -28,8 +28,13 @@ export default function FirstPost() {
       <h3>Retreats</h3> */}
 
       <h2>In-person Meet and Greet</h2>
-      The in-person meet and greet will be held at 6:00pm in 1st-floor eHub Kennedy commons on Wednesday 09/07.
-
+      <p>
+      The in-person meet and greet will be held at <b>6:00pm</b> (updated) in 1st-floor <b>eHub Kennedy commons on Wednesday 09/07</b>.
+      </p>
+      <p>RSVP below!</p>
+      <p>
+      <Link href="https://forms.gle/DsqdZE2XAbLNj6yS8">https://forms.gle/DsqdZE2XAbLNj6yS8</Link>
+      </p>
       <h2>Who really are VPs?</h2>
 
       Learn more about the <Link href="https://vp22.contrarycap.com/">2022 class of Venture Partners</Link>

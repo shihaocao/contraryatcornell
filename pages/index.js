@@ -76,7 +76,7 @@ export default function Home() {
         <Link href="https://airtable.com/shrrvmTO3FAYSuMJl?utm_campaign=vp-national-info">Applications</Link> are due Thursday 09/15
         <ul>
         <li>Learn about being a VP at the <Link href="https://airtable.com/shrrvmTO3FAYSuMJl?utm_campaign=vp-national-info">national info-sess</Link></li>
-        <li>Learn about Contrary @ Cornell at the <Link href="/vp">in-person info-sess</Link></li>
+        <li><Link href="/vp">RSVP to the in-person info-sess</Link> on 09/07</li>
         <li>Learn about the <Link href="http://contrary.com/blog/venture-partner-apps-2022">VP application process</Link></li>  
         </ul>
         </p>
