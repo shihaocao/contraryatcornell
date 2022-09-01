@@ -28,7 +28,7 @@ export default function FirstPost() {
       <h3>Retreats</h3> */}
 
       <h2>In-person Meet and Greet</h2>
-      The in-person meet and greet will be held at 7:30pm in eHub Kennedy on Wednesday 09/07.
+      The in-person meet and greet will be held at 6:00pm in 1st-floor eHub Kennedy commons on Wednesday 09/07.
 
       <h2>Who really are VPs?</h2>
 
