@@ -37,8 +37,10 @@ export default function FirstPost() {
       </p>
       <h2>Who really are VPs?</h2>
 
-      Learn more about the <Link href="https://vp22.contrarycap.com/">2022 class of Venture Partners</Link>
-
+      <ul>
+      <li>Learn more about the <Link href="https://vp22.contrarycap.com/">2022 class of Venture Partners</Link></li>
+      <li><Link href="https://contrary.com/partners">Check out all our other VPs</Link> on all our campuses</li>
+      </ul>
       <h2>Questions?</h2>
       
       <p>Reach out to us at&nbsp;
