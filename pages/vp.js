@@ -31,7 +31,7 @@ export default function FirstPost() {
       <p>
       The in-person meet and greet will be held at <b>6:00pm</b> (updated) in 1st-floor <b>eHub Kennedy commons on Wednesday 09/07</b>.
       </p>
-      <p>Free Chipotle dinner will be served! RSVP below!</p>
+      <p>RSVP below!</p>
       <p>
       <Link href="https://forms.gle/DsqdZE2XAbLNj6yS8">https://forms.gle/DsqdZE2XAbLNj6yS8</Link>
       </p>
