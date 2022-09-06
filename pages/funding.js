@@ -14,8 +14,8 @@ export default function FirstPost() {
 
       <p>We invest in startups from pre-seed to series A/B. We invest in any vertical and any idea.</p>
 
-      <h2>Announcements</h2>
-      Announcing <Link href="https://contrary.com/blog/contrary-sabbatical-2022">Contrary Sabbatical</Link>, which fast tracks $250k in funding to 5 teams (due 08/31)
+      {/* <h2>Announcements</h2>
+      Announcing <Link href="https://contrary.com/blog/contrary-sabbatical-2022">Contrary Sabbatical</Link>, which fast tracks $250k in funding to 5 teams (due 08/31) */}
 
       <h2>Process</h2>
 

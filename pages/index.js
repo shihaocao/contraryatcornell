@@ -60,18 +60,18 @@ export default function Home() {
         🌎 &nbsp; The Venture Partner program is a <Link href="https://contrary.com/partners">nation-wide program</Link>
         </p>
 
-        <h3>Announcements</h3>
+        {/* <h3>Announcements</h3>
         <p>
         🔩 &nbsp; Apply for up to <Link href="https://contrary.com/blog/contrary-sabbatical-2022">$250k in SAFE funding</Link> (due 08/31)
 
-        </p>
+        </p> */}
 
 
         <h3>Are you building a startup?</h3>
         <p>Learn about how to <Link href="/funding">receive up to $2M in funding</Link>
         </p>
 
-        <h3>Join Contrary</h3>
+        <h3>Join Contrary as a Venture Partner</h3>
         <p>
         <Link href="https://airtable.com/shrrvmTO3FAYSuMJl?utm_campaign=vp-national-info">Applications</Link> are due Thursday 09/15
         <ul>
