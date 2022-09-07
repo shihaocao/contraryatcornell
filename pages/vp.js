@@ -29,7 +29,7 @@ export default function FirstPost() {
 
       <h2>In-person Meet and Greet</h2>
       <p>
-      The in-person meet and greet will be held at <b>6:00pm</b> (updated) in 1st-floor <b>eHub Kennedy commons on Wednesday 09/07</b>. Suggested dress for the event is casual. Contrary members will be wearing tshirts and jeans.
+      The in-person meet and greet will be held at <b>6:00pm</b> (updated) in 1st-floor <b>eHub Kennedy commons on Wednesday 09/07</b>. You can wear whatever you like to the event! Contrary members will be wearing t-shirts and jeans.
       </p>
       <p>Free Chipotle dinner will be served! RSVP below!</p>
       <p><i> (Due to limited capacity, seating/food will be first come first served) </i></p>
